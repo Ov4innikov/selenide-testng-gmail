@@ -1,0 +1,7 @@
+.idea
+target
+build
+.allure
+allure-results
+gmail-test.iml
+log.log
